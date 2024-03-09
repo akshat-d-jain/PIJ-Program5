@@ -1,3 +1,6 @@
+// Name - Akshat D Jain
+// PRN - 22070126136
+// Batch - AIML B3
 import java.util.Scanner;
 
 public class Main {
